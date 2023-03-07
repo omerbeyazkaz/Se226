@@ -1,0 +1,11 @@
+var1 = int(input("Please enter a number "))
+var2=int(input("Please enter a second number"))
+sum=int(var1 + var2)
+dif=int(var1 - var2)
+prod=int(var1 * var2)
+
+print(var1)
+print(var2)
+print(sum)
+print(dif)
+print(prod)
